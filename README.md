@@ -39,9 +39,15 @@ object2.printfunction();
 }
 }
 ```
-## instance
+### instance
 The variables that are declared inside the class but outside the scope of any method are called instance variables in Java. The instance variable is initialized at the time of the class loading or when an object of the class is created. When we create an object, this object can call instances using eg: `Class c= new Class(); c.instance;` and method `c.method()`. Thats what getters and setters mean, using methods to update the instances. 
 ###Static 
 Static methods are designed with the aim to be shared among all objects created from the same class.  Static methods are the methods in Java that can be called without creating an object of class. Let all the methods know they can grab it like global varibles. Can understand it as static on the top. 
 ### Static vs final
 [MoreInfo](https://pediaa.com/what-is-the-difference-between-static-and-final/#:~:text=The%20main%20difference%20between%20static%20and%20final%20is,overridden%20or%20a%20class%20that%20cannot%20be%20inherited.)
+### Arraylist<> 
+Pass class in Arraylist 
+### Interface
+### Lamad function
+### super()
+[MoreInfo](https://www.geeksforgeeks.org/difference-between-super-and-super-in-java-with-examples/#:~:text=super-,super(),call%20parent%20class'%20constructors%20only.)

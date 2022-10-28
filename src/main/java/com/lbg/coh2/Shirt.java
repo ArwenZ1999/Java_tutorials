@@ -3,6 +3,9 @@ package com.lbg.coh2;
  * Constructor tutorials:
  * Constructor can be seen as a method that create objects
  */
+/*
+ * call instances
+ */
 public class Shirt
 {
 	//Add some properties

@@ -14,5 +14,8 @@ public class Main
     	s.putOn();
     	System.out.println(s.color);
     	System.out.println(s.size);
+    	Child_0 c= new Child_0("2",2,3.0,0.3,true,3);
+    	c.printPrice();
+    	
     }
 }
