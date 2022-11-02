@@ -51,4 +51,10 @@ Pass class in Arraylist
 ### Lamad function
 ### super()
 [MoreInfo](https://www.geeksforgeeks.org/difference-between-super-and-super-in-java-with-examples/#:~:text=super-,super(),call%20parent%20class'%20constructors%20only.)
-### Intersection 
+### Inject
+### Solid principles
+[More](https://medium.com/mindorks/solid-principles-explained-with-examples-79d1ce114ace)
+# Docker
+## Jenkins
+## Sonarcube
+
