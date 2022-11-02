@@ -11,6 +11,7 @@ public class Child_0 extends Parent_0 {
 	public Child_0(String description, int productCode, double price, double vatRate, boolean warranty,
 			int quantityOfStock) 
 	{
+		//super() can be used to call parent class’ constructors only.
 		super(description, productCode, price, vatRate, warranty, quantityOfStock);
 		// TODO Auto-generated constructor stub
 	}
