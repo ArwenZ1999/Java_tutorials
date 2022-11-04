@@ -55,6 +55,13 @@ Pass class in Arraylist
 ### Solid principles
 [More](https://medium.com/mindorks/solid-principles-explained-with-examples-79d1ce114ace)
 # Docker
+- docker was to make apps work faster with docker, individuals can deploy app isolately on another env using docker container. 
+- docker container: excutable software package that includes all the dependicies such as frameworkds, lib. container can be moved without big changes.
+- docker architecture: 
+- docker bridge
+When you connect to your application, traffic is going through NGINX first, it is then routed to your deployed application even though they are in separate containers. 
+
+
 ## Jenkins
 ## Sonarcube
 
